@@ -1,0 +1,6 @@
+{
+  "name": "RescueLink – Intelligent Disaster Response & Relief Coordination System",
+  "description": "Intelligent Disaster Response and Relief Coordination Platform with AI-driven prioritization, team matching, live situational awareness, and role-based coordination.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
